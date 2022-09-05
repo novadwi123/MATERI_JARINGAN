@@ -1,1 +1,30 @@
+                                            PENGERTIAN JARINGAN,PENGERTIAN JENIS
+                             
+internet adalah suatu sistem jaringan yang dapat menghubungkan satu perangkat ke perangkat lainnya. Internet adalah sistem global dari seluruh jaringan komputer yang saling terhubung menggunakan standar Internet Protocol Suite. Selain komputer, saat ini internet juga bisa menghubungkan berbagai macam gawai dan melayani miliaran pengguna di seluruh dunia
+Secara harfiah pengertian internet adalah kumpulan komputer di seluruh dunia yang terhubung ke dalam sebuah jaringan. Internet bisa dianalogikan sebagai perpustakaan besar yang memuat beragam macam informasi yang dibutuhkan masyarakat.
+
+Jaringan dapat bersifat privat maupun publik,dalam penggunaan jaringan private, biasanya memerlukan akses user untuk memasukkan kredensial berupa kata sandi yang dimasukkan secara manual oleh administrator atau diperoleh langsung oleh pengguna. Untuk penggunaan jaringan publik seperti internet, tidak membatasi suatu akses.
+
+Jenis–jenis jaringan komputer
+
+1. PAN (Personal Area Network) Jenis jaringan ini mencakup wilayah yang lebih kecil, misalnya saja pada kantor, dan rumah. Biasanya, banyak digunakan hanya untuk keperluan internet, serta printer. Dan tidak memerlukan resources yang besar untuk menggunakan jaringan PAN.
+2. LAN (Local Area Network) Jaringan LAN berfungsi untuk menghubungkan perangkat jaringan dalam kondisi jangkauan yang relatif kecil. Contoh penerapan jaringan LAN yaitu sistem jaringan pada sekolah, kantor, maupun rumah. Banyak orang yang cenderung menggunakan konektivitas tertentu, terutama pada token ring dan ethernet. Selain itu, LAN juga menyediakan teknologi jaringan wireless dengan menggunakan WIfi dan lebih dikenal dengan WLAN (Wireless Local Area Network).
+3. CAN (Campus Area Network) Jaringan CAN dapat dibilang memiliki kesamaan dengan MAN, namun lebih terbatas dalam ruang lingkup kampus atau akademisi. Untuk jaringan ini, lebih banyak digunakan untuk keperluan praktek lab, email, pembaruan kelas, dan lain sebagainya.
+4. MAN (Metropolitan Area Network) MAN adalah jaringan yang menghubungkan antara satu perangkat komputer dengan perangkat yang lain dalam ruang lingkup kota pada jaringan yang sama. Jenis jaringan ini lebih besar dari dari jaringan LAN.
+5. WAN (Wide Area Network) WAN merupakan kumpulan dari LAN yang tersebar secara geografis. Jaringan WAN cenderung untuk menggunakan teknologi seperti ATM, X.25, serta Frame Relay untuk konektivitas jarak yang lebih jauh lagi.
+6.Internet Internet adalah jaringan komputer terbesar yang pernah diciptakan oleh manusia. Ruang lingkup dari internet mencakup hampir seluruh penjuru dunia. Siapapun dapat mengakses berbagai sumber informasi dalam berbagai perangkat komputer, seperti PC, smartphone, laptop, tablet, TV, dan lain sebagainya.
+7. VPN (Virtual Private Network) VPN merupakan salah satu solusi untuk menyediakan koneksi internet yang lebih aman. VPN dapat membuat jalur aman untuk kebutuhan transmisi data. Saat ini, banyak sekali platform yang menjual VPN secara gratis, maupun menyediakan akses premium.
+
+
+Macam–macam perangkat jaringan komputer Sekarang, telah banyak dikembangkannya berbagai macam perangkat jaringan komputer untuk membantu dan mengoptimalkan kinerja sistem jaringan. Berikut ini merupakan beberapa macam perangkat yang sering Anda jumpai dan Anda gunakan.
+
+1. Server Server berfungsi sebagai tempat atau media untuk menyimpan informasi, serta mengelola jaringan komputer. Server memiliki spesifikasi yang lebih tinggi dari client. Karena tujuan dari dibuatnya server memang untuk melayani komputer client.
+2. NIC (Network Interface Card) NIC dapat disebut juga dengan LAN Card Expansion Board yang digunakan supaya komputer dapat terhubung dengan jaringan. Ethernet terbagi menjadi empat jenis, yaitu ethernet (10 Mbit/detik), fast ethernet (100 Mbit/detik), gigabit ethernet (1000 Mbit/detik), dan tengig (10000 Mbit/detik).
+3. Kabel jaringan Kabel merupakan media untuk menghubungkan satu perangkat dengan perangkat yang lain. Terdapat beberapa jenis kabel untuk pembuatan saluran jaringan. Diantaranya adalah kabel coaxial, fiber optic, dan twisted pair.
+4. Hub dan Switch merupakan perangkat jaringan komputer yang berfungsi untuk menghubungkan beberapa komputer. Secara fisik, bentuk dari switch sama dengan hub, namun jika dilihat dari sisi logika switch sama dengan bridge. Switch memiliki dua tipe, yaitu unmanaged switch yang merupakan tipe termurah. Dan managed switch yang merupakan tipe termahal.
+5. Router Router adalah perangkat jarkom yang berfungsi untuk menghubungkan jaringan LAN ke dalam suatu jaringan WAN, serta mengelola lalu lintas dari data di dalamnya. Router dapat menentukan jalur terbaik, karena memiliki tabel routing untuk melakukan pencatatan terhadap semua alamat dalam jaringan. 
+6. Bridge Bridge adalah sebuah piranti yang digunakan untuk meneruskan lalu lintas antara segmen jaringan berdasarkan informasi pada sebuah data link. Bridge juga memiliki fungsi untuk membagi jaringan yang besar menjadi beberapa jaringan kecil.
+7. Modem Modem merupakan perangkat yang digunakan untuk menghubungkan antara perangkat komputer, dengan penyedia layanan internet atau disebut juga dengan Internet Service Provider (ISP). 
+8. Repeater Repeater adalah suatu perangkat yang berfungsi untuk memperkuat dan meregenerasi jaringan dan sinyal yang masuk. Repeater berusaha untuk mempertahankan integritas dari sinyal jaringan. Kelemahan dari repeater sendiri adalah tidak dapat melakukan filter traffic dalam jaringan.
+9. Wireless card Wireless card merupakan perangkat yang wajib digunakan apabila anda ingin terhubung dalam jaringan nirkabel. Rata – rata komputer jenis terbaru sudah menggunakan perangkat yang mendukung wireless card. Namun, anda juga bisa menambahkannya sendiri pada komputer anda. 
 
